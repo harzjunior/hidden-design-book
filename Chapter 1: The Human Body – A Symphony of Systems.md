@@ -1,5 +1,3 @@
-# Chapter 1: The Human Body – A Symphony of Systems
-
 *Complexity Unveiled*
 
 ---
