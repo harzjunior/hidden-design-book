@@ -1,5 +1,3 @@
-# Introduction
-
 *Complexity, Chance, or Design?*
 
 ---
